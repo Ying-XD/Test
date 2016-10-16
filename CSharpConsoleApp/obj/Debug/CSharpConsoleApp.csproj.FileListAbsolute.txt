@@ -1,0 +1,6 @@
+D:\MyPrograms\Test\CSharpConsoleApp\bin\Debug\CSharpConsoleApp.exe.config
+D:\MyPrograms\Test\CSharpConsoleApp\bin\Debug\CSharpConsoleApp.exe
+D:\MyPrograms\Test\CSharpConsoleApp\bin\Debug\CSharpConsoleApp.pdb
+D:\MyPrograms\Test\CSharpConsoleApp\obj\Debug\CSharpConsoleApp.csprojResolveAssemblyReference.cache
+D:\MyPrograms\Test\CSharpConsoleApp\obj\Debug\CSharpConsoleApp.exe
+D:\MyPrograms\Test\CSharpConsoleApp\obj\Debug\CSharpConsoleApp.pdb
